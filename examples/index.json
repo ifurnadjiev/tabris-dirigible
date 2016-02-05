@@ -1,0 +1,86 @@
+[
+  {
+    "category": "Animation",
+    "title": "Animations",
+    "description": "Animations can be used to change properties",
+    "path": "animation"
+  },
+  {
+    "category": "Small Apps",
+    "title": "Bookstore",
+    "description": "An example of a bookstore app",
+    "path": "bookstore"
+  },
+  {
+    "category": "Web APIs",
+    "title": "Canvas",
+    "description": "Demonstrates the Tabris.js Canvas widget with HTML5 compatible API",
+    "path": "canvas"
+  },
+  {
+    "category": "Web APIs",
+    "title": "Chart.js",
+    "description": "Embeds the chartjs.org charting library for simple charting",
+    "path": "chart"
+  },
+  {
+    "category": "Web APIs",
+    "title": "fetch()",
+    "description": "How to use fetch() and promises to make http requests",
+    "path": "fetch"
+  },
+  {
+    "category": "Small Apps",
+    "title": "Hello, World!",
+    "description": "Tabris.js - Hello, World!",
+    "path": "hello"
+  },
+  {
+    "category": "Small Apps",
+    "title": "Internationalization",
+    "description": "Showcases internationalization by an example of a pizza app menu",
+    "path": "i18n"
+  },
+  {
+    "category": "Image, Video",
+    "title": "Image",
+    "description": "Demonstrates how to display and scale images",
+    "path": "image"
+  },
+  {
+    "category": "Small Apps",
+    "title": "Input Elements",
+    "description": "Showcases various input elements like Text, Checkbox, Picker, ...",
+    "path": "input"
+  },
+  {
+    "category": "Web APIs",
+    "title": "LocalStorage",
+    "description": "Showcases all feature of the persistent key/value store",
+    "path": "local-storage"
+  },
+  {
+    "category": "Animation",
+    "title": "Parallax scrolling",
+    "description": "Provides a sample implementation for a parallax scrolling effect",
+    "path": "parallax"
+  },
+  {
+    "category": "Small Apps",
+    "title": "Reddit Pet Pictures",
+    "description": "A small app using reddit API to show a listing of pet pictures",
+    "path": "reddit"
+  },
+  {
+    "category": "Small Apps",
+    "title": "Swipe to dismiss",
+    "description": "Showcases a CollectionView where elements can be swiped-to-dismiss.",
+    "path": "swipe-to-dismiss"
+  },
+  {
+    "category": "Web APIs",
+    "title": "Setting timers and intervals",
+    "description": "Demonstrates using the Tabris.js timer with the window.timer API",
+    "path": "timer"
+  }
+]

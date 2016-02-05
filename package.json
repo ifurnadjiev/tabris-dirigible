@@ -1,0 +1,7 @@
+{
+  "title": "Tabris.js for Dirigible",
+  "main": "app.js",
+  "dependencies": {
+    "tabris": "^1.5.0"
+  }
+}
